@@ -15,8 +15,8 @@ OctelTracer is a Python-based network monitoring and security tool designed to t
 1. **Clone the Repository**:
 
    ```shell
-   git clone https://github.com/Octellic/OctelTracer.git
-   cd OctelTracer
+   git clone https://github.com/Octellic/Octeltracer.git
+   cd Octeltracer
    ```
 
 2. **Install Requirements**:
