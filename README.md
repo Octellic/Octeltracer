@@ -69,3 +69,7 @@ Location: City, Country
 Feel free to open issues or pull requests to improve OctelTracer. Contributions are always welcome!
 
 **Disclaimer**: OctelTracer is intended for educational and security purposes on networks you have permission to monitor. Unauthorized use on other networks may be illegal.
+
+## Licesne
+
+Also Please refer to our license for what you may, and may not do with our code. We operate this project with a GNU General Public License v3 found in the license file.
