@@ -1,4 +1,4 @@
-scapy
+rich
 plyer
-pystray
-pyinstaller
+ipwhois
+scapy
