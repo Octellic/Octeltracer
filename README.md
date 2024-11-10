@@ -67,8 +67,4 @@ Location: City, Country
 ## Contributing
 
 Feel free to open issues or pull requests to improve OctelTracer. Contributions are always welcome!
-
----
-
 **Disclaimer**: OctelTracer is intended for educational and security purposes on networks you have permission to monitor. Unauthorized use on other networks may be illegal.
-```
